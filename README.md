@@ -1,0 +1,2 @@
+# AI-CONTEST-SPRING-2023
+CCC ai contest
